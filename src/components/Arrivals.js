@@ -1,17 +1,17 @@
 import * as React from 'react';
 import Box from '@mui/material/Box';
 import Masonry from '@mui/lab/Masonry'; // Import Masonry component from @mui/lab
-import img5 from '/Timka/Coding/redux-practice/src/img5.avif';
-import img6 from '/Timka/Coding/redux-practice/src/img6.avif';
-import img7 from '/Timka/Coding/redux-practice/src/img7.avif';
-import img8 from '/Timka/Coding/redux-practice/src/img8.avif';
-import img9 from '/Timka/Coding/redux-practice/src/img9.avif';
-import img10 from '/Timka/Coding/redux-practice/src/img10.avif';
-import img11 from '/Timka/Coding/redux-practice/src/img11.avif';
-import img12 from '/Timka/Coding/redux-practice/src/img12.avif';
-import img4 from '/Timka/Coding/redux-practice/src/img4.avif';
-import img13 from '/Timka/Coding/redux-practice/src/img13.avif';
-import img14 from '/Timka/Coding/redux-practice/src/img14.avif';
+import img5 from '../img5.avif';
+import img6 from '../img6.avif';
+import img7 from '../img7.avif';
+import img8 from '../img8.avif';
+import img9 from '../img9.avif';
+import img10 from '../img10.avif';
+import img11 from '../img11.avif';
+import img12 from '../img12.avif';
+import img4 from '../img4.avif';
+import img13 from '../img13.avif';
+import img14 from '../img14.avif';
 
 export default function ImageMasonry() {
   const itemData = [
