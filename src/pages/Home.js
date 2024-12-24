@@ -1,6 +1,6 @@
 import React from "react";
 import "./Home.css"; // Assuming you've created a CSS file for this component
-import img1 from "/Timka/Coding/redux-practice/src/img15.avif";
+import img1 from "../img15.avif";
 import ImageMasonry from "../components/Arrivals"; // Import your Masonry component
 
 function Home() {
