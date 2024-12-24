@@ -1,0 +1,45 @@
+/* About.css */
+.about-container {
+    padding: 40px;
+    background-color: #f9f9f9;
+    text-align: center;
+    color: #333;
+  }
+  
+  .about-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .about-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #2E3B55; /* Your brand’s primary color */
+  }
+  
+  .about-description {
+    font-size: 1.1rem;
+    line-height: 1.5;
+    margin: 10px 0;
+    color: #555;
+  }
+  
+  .about-subtitle {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-top: 40px;
+    color: #2E3B55; /* Your brand’s primary color */
+  }
+  
+  .about-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .about-list li {
+    font-size: 1.1rem;
+    margin: 10px 0;
+    color: #777;
+  }
+  
